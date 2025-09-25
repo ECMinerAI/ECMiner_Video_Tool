@@ -1,0 +1,23 @@
+Aircraft
+Ordinary Vehicle
+Towing Car - Towbar
+Towing Car - Towbarless
+Tug Car
+Cargo Loader - Elevator
+Cargo Loader - Conveyor Belt
+Bus
+Step Car
+Catering Truck
+Refueler with Tank
+Refueler without Tank
+Aircraft Front Wheel
+Human
+Animal
+Cargo
+Bridge Connected
+Cargo Door Opened
+Towing Car Connected
+Rubber Cone
+Ladder
+Palette
+Towbar

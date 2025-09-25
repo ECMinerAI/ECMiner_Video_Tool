@@ -1,0 +1,3 @@
+WallConnection_Normal
+WallConnection_Abnormal
+WallConnection_Missing

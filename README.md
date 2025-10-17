@@ -13,9 +13,9 @@
 
 ### 2. 게시물 내의 외부 링크에서 보기를 클릭하면 Github로 접속되고 빨간 박스로 표시된 버튼을 누르면 원하는 비디오 모델 파일을 다운받을 수 있습니다.
 
-![비디오모델 다운](https://github.com/user-attachments/assets/de88753a-4f71-4d19-8df1-58947297dc60)
+![ss](https://github.com/user-attachments/assets/fa14e8ef-cd9b-4105-926a-39e727673d15)
 
- ### 3. 이씨마이너의 인공지능 -> 동영상분석에서 빨간박스로 표시된 버튼을 눌러 추가할 모델을 선택하여 추가합니다.
+### 3. 이씨마이너의 인공지능 -> 동영상분석에서 빨간박스로 표시된 버튼을 눌러 추가할 모델을 선택하여 추가합니다.
 
 ![비디오모델 다운1](https://github.com/user-attachments/assets/7d474533-2a01-447a-a562-609d9dec2cee)
 ![비디오모델 다운2](https://github.com/user-attachments/assets/f9fcf181-0df5-4e56-ac77-e947a0000def)
